@@ -1,2 +1,2 @@
-"# javarushMVC" 
+
 "# MVC_javarush" 
